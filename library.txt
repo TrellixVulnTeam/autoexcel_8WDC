@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/21478946/writing-array-to-excel-in-python-with-win32com
+https://scitru.com/articles/2c/
